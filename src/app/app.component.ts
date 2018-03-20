@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { DragScrollModule } from 'ngx-drag-scroll';
 
 @Component({
   selector: 'app-root',
